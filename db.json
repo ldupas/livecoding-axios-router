@@ -1,0 +1,24 @@
+{
+  "animals" : [
+  {
+  "id": 1,
+  "name": "Simba",
+  "image": "https://s2.dmcdn.net/v/NqXX31XF2_--t-ekO/x1080",
+  "species": "Lion",
+  "age": 6
+  },
+  {
+  "id": 2,
+  "name": "Yoni",
+  "image": "https://media.wsimag.com/attachments/83203cd3dc86fc9b3dbd598be9c8b77c5bb73c33/store/fill/860/645/d3ea65079ad3b3a27b4ef63cc646031b58620079d7ccc91e7c8680904587/Monarch-Butterfly.jpg",
+  "species": "Butterfly",
+  "age": 1
+  },
+  {
+  "id": 3,
+  "name": "Bambou",
+  "image": "https://cdn.futura-sciences.com/buildsv6/images/wide1920/d/7/9/d79df23b89_50171178_panda-geant-pas-bete.jpg",
+  "species": "Panda",
+  "age": 4 
+  }]
+}

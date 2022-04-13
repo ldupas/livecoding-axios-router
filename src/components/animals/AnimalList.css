@@ -1,0 +1,13 @@
+.AnimalList {
+    width: 80%;
+    margin: auto;
+}
+
+.AnimalList-title {
+    text-align: center;
+}
+
+.cards-container {
+    display: flex;
+    justify-content: space-between;
+}
